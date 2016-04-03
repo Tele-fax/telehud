@@ -2945,6 +2945,92 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		"Champagne & LimousinesBold12"	
+		{
+			"1"
+			{
+				"name"		"Champagne & Limousines Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+			
+			
+		}
+		
+		"Champagne & LimousinesBold16"	
+		{
+			"1"
+			{
+				"name"		"Champagne & Limousines Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+			
+			
+		}
+		
+		"Champagne & LimousinesBold24"	
+		{
+			"1"
+			{
+				"name"		"Champagne & Limousines Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+			
+			
+		}
+		
+		"Champagne & LimousinesBold32"	
+		{
+			"1"
+			{
+				"name"		"Champagne & Limousines Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+			
+			
+		}
+		
+		"Champagne & LimousinesBold36"	
+		{
+			"1"
+			{
+				"name"		"Champagne & Limousines Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+			
+			
+		}
+		
+		"Champagne & LimousinesBold42"	
+		{
+			"1"
+			{
+				"name"		"Champagne & Limousines Bold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		
+		
+		}	
+			"Champagne & LimousinesBold48"	
+		{
+			"1"
+			{
+				"name"		"Champagne & Limousines Bold"
+				"tall"		"48"
+				"antialias" "1"
+			}
+			
+			
+		}
+			
+			
+		
 
 	}
 
