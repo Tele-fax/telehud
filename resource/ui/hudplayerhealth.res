@@ -72,7 +72,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"Champagne & LimousinesBold32"
+		"font"			"Champagne & Limousines32"
 		"fgcolor"		"255 255 255 255"
 	}							
 
@@ -80,8 +80,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueBG"
-		"xpos"			"2"
-		"ypos"			"2"	[$WIN32]
+		"xpos"			"1"
+		"ypos"			"1"	[$WIN32]
 		"ypos"			"55"	[$X360]
 		"zpos"			"1"
 		"wide"			"250"
@@ -90,7 +90,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"Champagne & LimousinesBold32"
+		"font"			"Champagne & Limousines32"
 		"fgcolor"		"0 0 0 255"
 	}									
 	"PlayerStatusBleedImage"
