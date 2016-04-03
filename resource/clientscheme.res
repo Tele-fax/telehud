@@ -2876,7 +2876,7 @@ Scheme
 		}
 		///////////////// These are the custom fonts /////////////////
     
-		Champagne & Limousines12	
+		"Champagne & Limousines12"	
 		{
 			"1"
 			{
@@ -2886,7 +2886,7 @@ Scheme
 			}
 		}
 		
-		Champagne & Limousines16	
+		"Champagne & Limousines16"	
 		{
 			"1"
 			{
@@ -2896,7 +2896,7 @@ Scheme
 			}
 		}
 		
-		Champagne & Limousines24	
+		"Champagne & Limousines24"	
 		{
 			"1"
 			{
@@ -2906,7 +2906,7 @@ Scheme
 			}
 		}
 		
-		Champagne & Limousines32	
+		"Champagne & Limousines32"	
 		{
 			"1"
 			{
@@ -2916,7 +2916,7 @@ Scheme
 			}
 		}
 		
-		Champagne & Limousines36	
+		"Champagne & Limousines36"	
 		{
 			"1"
 			{
@@ -2926,7 +2926,7 @@ Scheme
 			}
 		}
 		
-		Champagne & Limousines42	
+		"Champagne & Limousines42"	
 		{
 			"1"
 			{
@@ -2936,7 +2936,7 @@ Scheme
 			}
 		}
 		
-		Champagne & Limousines48	
+		"Champagne & Limousines48"	
 		{
 			"1"
 			{
